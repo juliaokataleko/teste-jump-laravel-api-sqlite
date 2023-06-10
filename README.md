@@ -3,11 +3,11 @@
 ![alt text](https://github.com/juliaokataleko/teste-jump-laravel-api/blob/master/public/images/home.png?raw=true)
 
 ### Requirements
-OS: Mac Os, Linux or Windows with (wsl) <br/>
-PHP 8.* installed with the following libs:
- - <b>NOTE: </b> If you need to install the libs below, please replace the asterisk with your version number. Ex.: 8.1, 8.2
- - (XML) sudo apt-get install php8.*-sqlite3
- - (SQLITE3) sudo apt-get install php8.*-xml
+OS: Mac Os, Linux or Windows <br/>
+PHP 8.* installed with the following extensions:
+ - sudo apt install php8.2-mbstring php8.2-pdo php8.2-mysqli  php8.2-gd php8.2-intl  php8.2-xml php8.2-curl php8.2-zip php8.2-sqlite3 php8.2-redis
+ - In my case, i have php 8.2. replace this with your version in each extension. for example: php8.1-sqlite3
+ - check your version running: php -v
 
 ### Installation
 
