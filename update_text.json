@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": 758,
+    "vehiclePlate": "0445654",
+    "entryDateTime": "2022-12-09",
+    "exitDateTime": null,
+    "priceType": "u",
+    "price": 120.89,
+    "userId": 23,
+    "userName": "Jordy Goldner I",
+    "createdAt": "2023-05-27T23:00:21.000000Z"
+  }
+}
